@@ -5,7 +5,7 @@
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
 
-<a href="https://www.linkedin.com/in/rafael-batista/" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-batista-11216b19b/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
