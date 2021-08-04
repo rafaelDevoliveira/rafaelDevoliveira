@@ -12,19 +12,20 @@
 <br />
 <br />
 
-Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀. 
+Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente estudo na  **Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
+- 👨🏽‍💻 Estou no fim do modulo de  **Front-end**;
+- 🌱 Aprendi muito sobre as ferramentas como **React.js **;
+- o uso do Redux, e context.api e claro **Bootstrap, Flexbox **;
+- 🤔 Meus hobbies são Tocar instrumentos musicais e ficar com a familia ;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+- 📫 Por favor, envie um email para **rafaelbatista02@gmail.com** para me encontrar.
+
 
 <br />
 <br />
@@ -38,11 +39,10 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
+  
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
+   
 </p>
 
 <p>
