@@ -7,7 +7,7 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href="https://linkedin.com/in/rafael-batista" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" rafael-batista "height =" 30 "width =" 40 "/> </a>
+<a href="https://linkedin.com/in/rafael-batista" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" Rafael Batista "height =" 30 "width =" 40 "/> </a>
 </p>
 
 <h3 align = "left"> Idiomas e ferramentas: </h3>
