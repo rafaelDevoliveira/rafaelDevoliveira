@@ -1,4 +1,4 @@
-##Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente estudo na  **Trybe** 🚀.
+## Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente estudo na  **Trybe** 🚀.
 
 <a href="https://github.com/rafaelDevoliveira" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
