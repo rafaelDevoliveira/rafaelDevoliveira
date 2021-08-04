@@ -18,9 +18,9 @@ Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente estudo
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou no fim do modulo de  **Front-end**;
-- 🌱 Aprendi muito sobre as ferramentas como **React.js **;
-- o uso do Redux, e context.api e claro **Bootstrap, Flexbox **;
+- 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
+- 🌱 Aprendi muito sobre as ferramentas como **React.js **
+- o uso do Redux, e context.api e claro **Bootstrap, Flexbox **
 - 🤔 Meus hobbies são Tocar instrumentos musicais e ficar com a familia ;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
