@@ -18,7 +18,7 @@
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="![gifprogramdor](https://user-images.githubusercontent.com/80712559/136209963-6f605d62-9549-409f-b19f-fe4d290a98e9.gif)" width="400px" />
+  <img align="right" alt="GIF" src="C:\Users\rafael.batista\Downloads\gifprogramdor.gif" width="400px" />
 
 - 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
 - em seguida já entro no Back e a partir dai banco de dados e outros framework;
