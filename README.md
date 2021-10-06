@@ -18,7 +18,7 @@
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47qed1i0kld8v3v3488k59hn7vx0as72jk5c4lecxu&rid=giphy.gif&ct=g" width="400px" />
 
 - 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
 - em seguida já entro no Back e a partir dai banco de dados e outros framework;
