@@ -18,7 +18,7 @@
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="![gifprogramdor](https://user-images.githubusercontent.com/80712559/136210560-c905f02e-8f05-4f6e-859b-5e6b0a0e6d9c.gif)" width="400px" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="400px" />
 
 
 - 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
