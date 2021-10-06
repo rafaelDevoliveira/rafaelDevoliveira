@@ -18,7 +18,7 @@
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" width="400px" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47uevb3tzpuizderw4yesx4ikojb0cwyfwc8csgv6r&rid=giphy.gif&ct=g" width="400px" />
 
 
 - 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
