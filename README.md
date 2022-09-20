@@ -1,4 +1,4 @@
-## Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente estudo na  **Trybe** 🚀.
+## Olá, me chamo **Rafael Batista**, sou de São Paulo, Brasil e atualmente trabalho no mercado livre 🚀.
 
 <a href="https://github.com/rafaelDevoliveira" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -21,7 +21,7 @@
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47ypx650qomrke3wzlyelvfjdj3zzsplskb00ev289&rid=giphy.gif&ct=g" width="400px" />
 
 
-- 👨🏽‍💻 Estou no fim do modulo de  **Front-end**
+- 👨🏽‍💻 Estou no fim do modulo de  **Front-end**(Finalizado)
 - em seguida já entro no Back e a partir dai banco de dados e outros framework;
 - 🌱 Aprendi muito sobre as ferramentas como **React.js**
 - o uso do Redux, e context.api e claro **Bootstrap, Flexbox**
